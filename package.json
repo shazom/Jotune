@@ -1,0 +1,12 @@
+{
+  "name": "jotune",
+  "version": "1.0.0",
+  "description": "A digital sketchpad for musicians and songwriters to store and organize their musical ideas. Jotune allows users to upload and manage audio files, add notes, lyrics, and metadata, and easily search and access their musical projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shazom",
+  "license": "ISC"
+}
